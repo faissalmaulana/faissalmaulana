@@ -21,9 +21,3 @@ I'm a software developer specializing in backend development
 - 🎵 Big fan of **Lizzy McAlpine**.
 
 
-
-### 🔥 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizisyellow&layout=compact&bg_color=4B2E83&title_color=B7A57A&text_color=FFFFFF&icon_color=B7A57A)
-
-
-
