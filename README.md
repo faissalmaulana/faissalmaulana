@@ -1,18 +1,18 @@
-# Hi 👋, I'm faissal maulana
+# Hi !!, I'm Faissal Maulana
 
 ### I'm A Software Developer Specializing in Backend Development
 
-- 🌱 I'm currently learning **Python**
+- I'm currently learning **Python**
 
-- 💬 Ask me about **Go**
+- Ask me about **Go**
 
-- 📫 How to reach me **muhamatfaissal@gmail.com**
+- How to reach me **muhamatfaissal@gmail.com**
 
-- ⚡ Fun fact **I love Go, Big fan of Lizzy McAlpine**
+- Fun fact **I love Go, Big fan of Lizzy McAlpine**
 
-- 👨‍💻 All of my projects are available at **[https://www.faissalmaulana.dev](https://www.faissalmaulana.dev)**
+- All of my projects are available at **[https://www.faissalmaulana.dev](https://www.faissalmaulana.dev)**
 
-- 📄 Know about my experiences **[https://www.faissalmaulana.dev/resume/resume.pdf](https://www.faissalmaulana.dev/resume/resume.pdf)**
+- Know about my experiences **[https://www.faissalmaulana.dev/resume/resume.pdf](https://www.faissalmaulana.dev/resume/resume.pdf)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
