@@ -2,7 +2,7 @@
 
 ### I'm A Software Developer Specializing in Backend Development
 
-- I'm currently learning **Python**
+- I'm currently learning **Javasript**
 
 - Ask me about **Go**
 
