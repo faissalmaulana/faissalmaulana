@@ -6,7 +6,7 @@
 
 - Ask me about **Go**
 
-- How to reach me **muhamatfaissal@gmail.com**
+- How to reach me **faissalmaulana.dev@gmail.com**
 
 - Fun fact **I love Go, Big fan of Lizzy McAlpine**
 
