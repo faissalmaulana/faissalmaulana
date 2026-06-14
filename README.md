@@ -2,7 +2,7 @@
 
 ### I'm A Software Developer Specializing in Backend Development Based in Malang, Indonesia
 
-- I'm currently learning **Laravel**
+- I'm currently learning **C**
 
 - Ask me about **Go**
 
